@@ -1,0 +1,6 @@
+path: /Users/zhangjunjie/Documents/Codex/2026-04-29/files-mentioned-by-the-user-vlm/张俊杰-基于双流感知与VLM语义修正的无人机/YOLOFuse-source/datasets/llvip_sample_pseudo
+train: images/train
+val: images/val
+test:
+names:
+  0: person

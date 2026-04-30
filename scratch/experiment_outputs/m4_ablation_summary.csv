@@ -1,0 +1,4 @@
+exp_name,precision,recall,mAP50,mAP50-95,train_box_loss,train_cls_loss,train_dfl_loss
+decision_fusion_n_3ep,0.00333,0.2,0.00202,0.00094,3.42269,3.87084,3.49004
+easy_fusion_n_3ep,0.00952,0.1,0.00633,0.00371,3.81155,3.41391,3.67048
+mid_fusion_n_3ep,0.00472,0.28333,0.0133,0.00409,3.82732,3.56407,3.53152

@@ -1,0 +1,6 @@
+model,params,params_m,gflops_320,gflops_640
+Easy-level-Feature-Fusion,3841808,3.842,2.247,8.987
+Early-level-Feature-Fusion,2587344,2.587,1.859,7.435
+Mid-level-Feature-Fusion,1233408,1.233,0.887,3.547
+Decision-level-Fusion,4270934,4.271,2.736,10.943
+DEYOLO,6154300,6.154,4.376,17.503
